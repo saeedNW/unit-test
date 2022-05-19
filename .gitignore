@@ -1,1 +1,16 @@
-lesson_05/.idea
+.idea/
+
+lesson_01/node_modules/
+lesson_02/node_modules/
+lesson_03/node_modules/
+lesson_04/node_modules/
+lesson_05/node_modules/
+lesson_06/node_modules/
+
+lesson_01/package-lock.json
+lesson_02/package-lock.json
+lesson_03/package-lock.json
+lesson_04/package-lock.json
+lesson_05/package-lock.json
+lesson_06/package-lock.json
+
